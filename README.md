@@ -3,7 +3,7 @@
 
 **Wellcome to my page**
 
-Hello i'm Pramarn Moonprasarn Game devaloper and Programer
+Hello i'm Pramarn Moonprasarn Game developer and Programer
 
 ### Contact me
 
